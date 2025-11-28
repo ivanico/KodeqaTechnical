@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KodeqaTechnical")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac87d05f96560a1ef95599df4a59c8a84e9c59c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37e3bc4291eb75162c9c16b9e513946a697922a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("KodeqaTechnical")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KodeqaTechnical")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

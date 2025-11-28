@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Windows10\\Desktop\\KodeqaTechnical\\KodeqaTechnical\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{37F093D0-1D3B-48CC-A35E-91E536B28ADC}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\kodeqatechnical.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|c:\\users\\windows10\\desktop\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical\\kodeqatechnical.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{718CEED7-DD4F-81BD-EC7A-5ABFFA6E1912}|KodeqaTechnical\\KodeqaTechnical.csproj|solutionrelative:kodeqatechnical\\kodeqatechnical.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\KodeqaTechnical\\KodeqaTechnical\\KodeqaTechnical\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "KodeqaTechnical\\Properties\\launchSettings.json",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "KodeqaTechnical\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-28T08:04:27.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T08:04:27.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\KodeqaTechnical\\KodeqaTechnical\\KodeqaTechnical\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "KodeqaTechnical\\Controllers\\ProductsController.cs",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "KodeqaTechnical\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T07:51:04.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T07:51:04.789Z"
             },
             {
               "$type": "Document",
@@ -89,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\KodeqaTechnical\\KodeqaTechnical\\KodeqaTechnical\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "KodeqaTechnical\\Services\\ProductService.cs",
@@ -97,12 +95,11 @@
               "RelativeToolTip": "KodeqaTechnical\\Services\\ProductService.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T07:43:37.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T07:43:37.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\KodeqaTechnical\\KodeqaTechnical\\KodeqaTechnical\\appsettings.json",
               "RelativeDocumentMoniker": "KodeqaTechnical\\appsettings.json",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "KodeqaTechnical\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-28T07:19:11.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T07:19:11.232Z"
             },
             {
               "$type": "Document",
@@ -123,12 +119,11 @@
               "RelativeToolTip": "KodeqaTechnical\\Data\\ProductsDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T07:16:47.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T07:16:47.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\KodeqaTechnical\\KodeqaTechnical\\KodeqaTechnical\\Models\\Product.cs",
               "RelativeDocumentMoniker": "KodeqaTechnical\\Models\\Product.cs",
@@ -136,21 +131,19 @@
               "RelativeToolTip": "KodeqaTechnical\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T07:10:22.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T07:10:22.586Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "KodeqaTechnical",
+              "Title": "KodeqaTechnical.csproj",
               "DocumentMoniker": "C:\\Users\\Windows10\\Desktop\\KodeqaTechnical\\KodeqaTechnical\\KodeqaTechnical\\KodeqaTechnical.csproj",
               "RelativeDocumentMoniker": "KodeqaTechnical\\KodeqaTechnical.csproj",
               "ToolTip": "C:\\Users\\Windows10\\Desktop\\KodeqaTechnical\\KodeqaTechnical\\KodeqaTechnical\\KodeqaTechnical.csproj",
               "RelativeToolTip": "KodeqaTechnical\\KodeqaTechnical.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-28T07:02:27.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T07:02:27.783Z"
             }
           ]
         }

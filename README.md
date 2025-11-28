@@ -16,4 +16,4 @@ SQL Server Express
 1. Restore NuGet packages.
 2. Run `ProductsDB.sql` in SQL Server to create database and seed data.
 3. Run the project
-4. Test it on Swagger: https://localhost:{port}/swagger/index.html
+4. Test it on Swagger: https://localhost:{port}/swagger/index.html or with Postman: https://localhost:{port}/products
